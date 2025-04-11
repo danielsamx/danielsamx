@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm Anderson Cango
 
-- 🌱 I’m currently learning Machine Learning, Data Science and taking Azure Course
 <!--
 **danielsamx/danielsamx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
